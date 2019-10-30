@@ -1,0 +1,18 @@
+Corps
+* Permit Meeting
+** DONE Mosaic Company, New Floating Dock
+   SCHEDULED: <2019-10-24 Thu 11:00-12:00>
+   Room 288
+   To discuss bank stabilization.
+* Review Design Documentation Report (DDR)
+** DDR-MRL-Manchac Bend Levee Enlargement
+** Downloaded document to start review.
+* DONE Permit Little Gypsy
+** Sent email to Pinner recommending approval.
+* DONE Face-to-Face
+** SCHEDULED: <2019-10-29 Tue 15:00-15:30>
+** TODO Learn Emacs Org-Mode
+** TODO Learn Java
+** TODO Learn Python
+** TODO Learn Neovim
+** TODO Learn Temux
