@@ -1,0 +1,19 @@
+* Corps
+* Permit Meetings   SCHEDULED: <2019-10-24 Thu 11:00-12:00>
+   Room 288
+   To discuss bank stabilizatio
+* Projects
+** Review Design Documentation Report (DDR)
+   DDR-MRL-Manchac Bend Levee Enlargement
+   Downloaded document to start review.
+* Permits
+** Little Gypsy
+   Sent email to Pinner recommending approval.
+   Finished permit.
+* TODO Wake
+  SCHEDULED: <2019-10-31 Wed 05:30>
+  Get out of bed and brush teeth.
+  Get dressed.
+* TODO Work
+  SCHEDULED: <2019-10-31 Wed 06:15>
+  Take Lauren to work.
