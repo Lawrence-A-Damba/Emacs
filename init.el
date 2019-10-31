@@ -1,52 +1,58 @@
 (require 'package)
 (setq package-enable-at-startup nil)
 (add-to-list 'package-archives
-	     '("melpa" . "https://melpa.org/packages/"))
-
+	     '("melpa" . "https://melpa.org/packages/") t)
 (package-initialize)
 
 (unless (package-installed-p 'use-package)
   (package-refresh-contents)
   (package-install 'use-package))
 
-
-(use-package evil
-  :ensure t
-  :init
-  (evil-mode 1))
-
+(unless (package-installed-p 'green-phosphor-theme)
+  (package-refresh-contents)
+  (package-install 'green-phosphor-theme))
 
 (use-package which-key
   :ensure t
   :init
   (which-key-mode))
 
-
 (use-package org
   :ensure t
   :init
   (org-mode))
 
-(tool-bar-mode 1)
-(menu-bar-mode 1)
-(scroll-bar-mode -1)
+(use-package evil
+  :ensure t
+  :init
+  (evil-mode 1))
+
+(global-set-key (kbd "C-c l") 'org-store-link)
+(global-set-key (kbd "C-c a") 'org-agenda)
+(global-set-key (kbd "C-c c") 'org-capture)
+
+
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(custom-enabled-themes (quote (solarized-dark)))
+ '(ansi-color-faces-vector
+   [default default default italic underline success warning error])
+ '(ansi-color-names-vector
+   ["#242424" "#e5786d" "#95e454" "#cae682" "#8ac6f2" "#333366" "#ccaa8f" "#f6f3e8"])
+ '(custom-enabled-themes (quote (green-phosphor)))
  '(custom-safe-themes
    (quote
-    ("d91ef4e714f05fff2070da7ca452980999f5361209e679ee988e3c432df24347" "0598c6a29e13e7112cfbc2f523e31927ab7dce56ebb2016b567e1eff6dc1fd4f" "a8245b7cc985a0610d71f9852e9f2767ad1b852c2bdea6f4aadc12cce9c4d6d0" default)))
- '(line-number-mode nil)
- '(package-selected-packages (quote (which-key use-package)))
- '(show-paren-mode t))
- 
+    ("ae3a3bed17b28585ce84266893fa3a4ef0d7d721451c887df5ef3e24a9efef8c" default)))
+ '(org-agenda-files (quote ("~/Git-Remote/Emacs/Org/Corps.org")))
+ '(package-selected-packages
+   (quote
+    (green-phosphor-theme auctex evil-org yasnippet-snippets yasnippet which-key use-package))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(default ((t (:inherit nil :stipple nil :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :height 98 :width normal :foundry "monotype" :family "Cousine")))))
+ )
