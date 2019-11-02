@@ -1,11 +1,23 @@
-* Corps
-* Permit Meeting
-** Mosaic Company, New Floating Dock
-   SCHEDULED: <2019-10-24 Thu 11:00-12:00>
-*** Room 288
-*** To discuss bank stabilization.
+* CorpS								     :ATTACH:
+  :PROPERTIES:
+  :Attachments: Corps.org
+  :ID:       b1e9e76e-474d-42b8-ad7c-77b8b8699bdf
+  :END:
+* Permit Meetings   SCHEDULED: <2019-10-24 Thu 11:00-12:00>
+   Room 288
+   To discuss bank stabilizatio
+* Projects
 ** Review Design Documentation Report (DDR)
-*** DDR-MRL-Manchac Bend Levee Enlargement
-**** Downloaded document to start review.
-** Permit Little Gypsy
-*** Sent email to Pinner recommending approval.
+   DDR-MRL-Manchac Bend Levee Enlargement
+   Downloaded document to start review.
+* Permits
+** Little Gypsy
+   Sent email to Pinner recommending approval.
+   Finished permit.
+* TODO Wake
+  SCHEDULED: <2019-10-31 Wed 05:30>
+  Get out of bed and brush teeth.
+  Get dressed.
+* TODO Work
+  SCHEDULED: <2019-10-31 Wed 06:15>
+  Take Lauren to work.
