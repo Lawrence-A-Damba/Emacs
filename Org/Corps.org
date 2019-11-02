@@ -1,23 +1,35 @@
-* CorpS								     :ATTACH:
-  :PROPERTIES:
-  :Attachments: Corps.org
-  :ID:       b1e9e76e-474d-42b8-ad7c-77b8b8699bdf
-  :END:
-* Permit Meetings   SCHEDULED: <2019-10-24 Thu 11:00-12:00>
-   Room 288
-   To discuss bank stabilizatio
+#+TITLE:Corps
+
 * Projects
-** Review Design Documentation Report (DDR)
-   DDR-MRL-Manchac Bend Levee Enlargement
-   Downloaded document to start review.
+
+** DONE [#A] Manchac Bend Levee Enlargement
+*** DONE Review Design Documentation Report (DDR) [4/4] [100%]
+- [X] DDR-MRL-Manchac Bend Levee Enlargement
+- [X] Downloaded document to start review.
+- [X] Email comments and attached document
+- Told Baldwin, Pinner, and Villa that a Geotechnical report was not done and that my comment would be "No additional comments or concerns.
+- [X] Make comment in Dr. Checks
+
+
+** IN PROGRESS [#B] NOV-NF-W-06B.5 Magnolia PS
+*** IN PROGRESS Check Boring Logs [0/2] [0%]
+- [ ] Check blow count at end of driving to ensure that the count is still high.
+- [ ] Email the results of the check.
+
+
+* Meetings
+
+** MT 19-11224 Mosaic Company, New Floating Dock, Uncle Sam Facility  <2019-10-24 Thu 11:00-12:00>
+- Room 288
+- To discuss bank stabilization
+
+** MT 19-11224 Mosaic Company, New Floating Dock, Mosaic Uncle Sam Facility  <2019-11-13 Wed 09:00-10:30>
+- Rm 288
+- Second meeting to discuss bank stabilitzation remediation.
+
+
 * Permits
-** Little Gypsy
-   Sent email to Pinner recommending approval.
-   Finished permit.
-* TODO Wake
-  SCHEDULED: <2019-10-31 Wed 05:30>
-  Get out of bed and brush teeth.
-  Get dressed.
-* TODO Work
-  SCHEDULED: <2019-10-31 Wed 06:15>
-  Take Lauren to work.
+
+** DONE MT 19-11245 Entergy, Crane over the levee, Little Gypsy Plant
+- Sent email to Pinner recommending approval.
+- Finished permit.
