@@ -1,8 +1,0 @@
-* Lair Org
-* Payments
-** AAA
-*** Renew Now
-** Prime
-** Sirius
-* Repair Rav
-** Find repair shop.
