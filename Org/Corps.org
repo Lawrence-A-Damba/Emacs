@@ -3,12 +3,12 @@
 * Projects
 
 ** DONE [#A] Manchac Bend Levee Enlargement
-*** DONE Review Design Documentation Report (DDR) [4/4] [100%]
+*** IN PROGRESS Review Design Documentation Report (DDR) [4/5] [80%]
 - [X] DDR-MRL-Manchac Bend Levee Enlargement
 - [X] Downloaded document to start review.
 - [X] Email comments and attached document
-- Told Baldwin, Pinner, and Villa that a Geotechnical report was not done and that my comment would be "No additional comments or concerns.
-- [X] Make comment in Dr. Checks
+- [X] Told Baldwin, Pinner, and Villa that a Geotechnical report was not done and that my comment would be "No additional comments or concerns".
+- [ ] Make commet in Dr. Checks
 
 
 ** IN PROGRESS [#B] NOV-NF-W-06B.5 Magnolia PS
