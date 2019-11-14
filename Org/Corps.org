@@ -2,21 +2,20 @@
 
 * Projects
 
-** DONE [#A] Manchac Bend Levee Enlargement
+** DONE [#C] Manchac Bend Levee Enlargement
 *** IN PROGRESS Review Design Documentation Report (DDR) [4/5] [80%]
 - [X] DDR-MRL-Manchac Bend Levee Enlargement
 - [X] Downloaded document to start review.
 - [X] Email comments and attached document
 - [X] Told Baldwin, Pinner, and Villa that a Geotechnical report was not done and that my comment would be "No additional comments or concerns".
-- [ ] Make commet in Dr. Checks
+- [ ] Make commet in Dr. Checks 
 
-
-** IN PROGRESS [#B] NOV-NF-W-06B.5 Magnolia PS
+** IN PROGRESS [#A] NOV-NF-W-06B.5 Magnolia PS
 *** IN PROGRESS Check Boring Logs [0/2] [0%]
 - [ ] Check blow count at end of driving to ensure that the count is still high.
 - [ ] Email the results of the check.
 
-** TODO New Roads Ferry Landing Sand Boil
+** TODO [#B]New Roads Ferry Landing Sand Boil
 - [ ] PMP
 - [ ] Check for borings
 
@@ -38,3 +37,7 @@
 ** DONE MT 19-11245 Entergy, Crane over the levee, Little Gypsy Plant
 - Sent email to Pinner recommending approval.
 - Finished permit.
+
+** IN PROGRESS MT 19-10827 Resubmit 408 Biria Carbon, Water intake, Wax Lake West
+   SCHEDULED: <2019-11-14 Thu> DEADLINE: <2019-11-15 Fri>
+
