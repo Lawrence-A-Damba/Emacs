@@ -1,9 +1,9 @@
 * Corps
-** Reformat the Boring Logs
+** Seepage
 ** Bearing Capacity
 ** Pile Capacity
 
-* Damba
+* Programming
 ** Python
 ** Nvim
 ** Emacs
