@@ -25,7 +25,3 @@
 
 * Permits
 
-** IN PROGRESS MT 19-10827 Resubmit 408 Biria Carbon, Water intake, Wax Lake West
-   SCHEDULED: <2019-11-14 Thu> DEADLINE: <2019-11-15 Fri>
-- [ ] Look at Bearing Capacity
-- [ ] Look at Stabiliyt Analysis:
