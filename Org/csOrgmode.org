@@ -1,0 +1,12 @@
+# TITLE: Cheat Sheet for Org-mode
+
+* Archiving
+** Define a global archive file with
+** #+ARCHIVE: filename.org::
+
+- Archive an entry with Ctrl C  Ctrl X  Ctrl A
+
+- Archive a subtree with Ctrl C Ctrl X Ctrl S
+
+- Search all subtrees under a headline and see which one can be archived with this keys
+Ctrl U  Ctrl C  Ctrl X  Ctrl S

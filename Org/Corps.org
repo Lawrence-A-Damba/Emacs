@@ -2,7 +2,7 @@
 
 * Projects
 
-** DONE [#C] Manchac Bend Levee Enlargement
+** TODO [#C] Manchac Bend Levee Enlargement
 *** IN PROGRESS Review Design Documentation Report (DDR) [4/5] [80%]
 - [X] DDR-MRL-Manchac Bend Levee Enlargement
 - [X] Downloaded document to start review.
@@ -23,22 +23,5 @@
 
 * Meetings
 
-** MT 19-11224 Mosaic Company, New Floating Dock, Uncle Sam Facility  <2019-10-24 Thu 11:00-12:00>
-- Room 288
-- To discuss bank stabilization
-
-** MT 19-11224 Mosaic Company, New Floating Dock, Mosaic Uncle Sam Facility  <2019-11-13 Wed 09:00-10:30>
-- Rm 288
-- Second meeting to discuss bank stabilitzation remediation.
-
-
 * Permits
 
-** DONE MT 19-11245 Entergy, Crane over the levee, Little Gypsy Plant
-- Sent email to Pinner recommending approval.
-- Finished permit.
-
-** IN PROGRESS MT 19-10827 Resubmit 408 Biria Carbon, Water intake, Wax Lake West
-   SCHEDULED: <2019-11-14 Thu> DEADLINE: <2019-11-15 Fri>
-- [ ] Look at Bearing Capacity
-- [ ] Look at Stabiliyt Analysis:
