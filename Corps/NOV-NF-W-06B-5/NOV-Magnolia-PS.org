@@ -1,0 +1,66 @@
+#+ Magnolia Pump Station Pile Driving Logs
+List of reviewed logs
+* Row 3
+- Row 3-1
+- Row 3-2
+- Row 3-3
+- Row 3-4
+* Row 4
+- Row 4-1
+- Row 4-2
+- Row 4-3
+-- Did not include the inch strokes for the last foot.
+- Row 4-4
+* Row 5
+- Row 5-1
+- Row 5-2
+- Row 5-3
+- Row 5-4
+* Monolith #4
+- Pile 1
+- Pile 2
+- Pile 3
+- Pile 4
+-- 8,11,10 0 at 4 and 10 inches
+- Pile 5
+- Pile 6
+- Pile 7
+- Pile 8
+-- 13,14,11 0 at 2"
+- Pile 9
+- Pile 10
+-- 8,11,10 0 at 5 and 10 inches
+- Pile 13
+- Pile 14
+- Pile 15
+-- 0 at 8"
+- Pile 16  
+- Pile 17
+- Pile 18
+* Monolith #5
+- Pile 1
+- Pile 2
+- Pile 3
+-- 0 at 4,6,10 inches
+- Pile 4
+-- 0 at 2,3,5,8,9
+- Pile 5
+- Pile 6
+- Pile 7
+-- 1" had all 1 exect a 0 at 7".
+- Pile 8
+- Pile 9
+-- All inches were 1 exept 0 at 3" and 6"
+- Pile 10
+-- A 0 at 8"
+- Pile 11
+- Pile 12
+- Pile 13
+- Pile 14
+- Pile 15
+- Pile 16
+- Pile 17
+- Pile 18
+-- This one looks bad 13, 12, 9 and ran out of pipe at 8 inches.
+- Pile
+
